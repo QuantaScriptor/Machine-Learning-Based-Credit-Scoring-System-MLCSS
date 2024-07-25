@@ -1,5 +1,6 @@
 # Machine Learning-Based Credit Scoring System (MLCSS)
 
+![DALL·E 2024-07-25 16 39 22 - A high-resolution banner for a GitHub project titled 'Machine Learning-Based Credit Scoring System (MLCSS)'  The banner should be futuristic and visua](https://github.com/user-attachments/assets/78f7f3ba-116d-44ed-810e-fcfe72112150)
 
 
 ## Description
